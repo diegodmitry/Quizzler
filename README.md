@@ -1,5 +1,5 @@
 
-<img src="Documentation/screen.jpg" width="200">
+<img src="Documentation/screen.png" width="200">
 
 #  Quizzler
 
